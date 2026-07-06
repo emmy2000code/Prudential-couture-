@@ -1,2 +1,2 @@
 # Prudential couture 
-My personal website
+Prudential couture 
